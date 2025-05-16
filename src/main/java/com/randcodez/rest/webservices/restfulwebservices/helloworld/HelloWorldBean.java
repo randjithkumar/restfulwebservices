@@ -1,5 +1,8 @@
 package com.randcodez.rest.webservices.restfulwebservices.helloworld;
 
+/**
+ * @author Randjith
+ */
 public class HelloWorldBean {
 
 	private String message;

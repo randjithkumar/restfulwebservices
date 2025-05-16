@@ -1,5 +1,8 @@
 package com.randcodez.rest.basic.auth;
 
+/**
+ * @author Randjith
+ */
 public class AuthenticationBean {
 
 	private String message;

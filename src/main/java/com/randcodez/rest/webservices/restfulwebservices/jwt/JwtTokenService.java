@@ -11,6 +11,9 @@ import org.springframework.security.oauth2.jwt.JwtEncoder;
 import org.springframework.security.oauth2.jwt.JwtEncoderParameters;
 import org.springframework.stereotype.Service;
 
+/**
+ * @author Randjith
+ */
 @Service
 public class JwtTokenService {
 

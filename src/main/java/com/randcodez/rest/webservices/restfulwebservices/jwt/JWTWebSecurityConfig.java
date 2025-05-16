@@ -38,6 +38,9 @@ import com.nimbusds.jose.proc.SecurityContext;
 
 import static org.springframework.security.config.Customizer.withDefaults;
 
+/**
+ * @author Randjith
+ */
 @Configuration
 @EnableWebSecurity
 @EnableMethodSecurity
